@@ -92,7 +92,7 @@ is partially historical, and now, mostly arbitrary.
 - Leo Lopes
 - Jordi Torrents, GitHub: `jtorrents <https://github.com/jtorrents>`_
 - Dheeraj M R
-- Franck Kalala, Website: `Kalala <bit.ly/1RdZF7d>`
+- Franck Kalala, Website: `Kalala <http://bit.ly/1RdZF7d>`_
 - Simon Knight
 - Conrad Lee
 - Sérgio Nery Simões
